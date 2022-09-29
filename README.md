@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-                                                    
+
+<h1 align='center'>
 ooo                                                            :trollface:
 ooo 
+</h1>
