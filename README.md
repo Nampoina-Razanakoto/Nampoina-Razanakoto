@@ -3,6 +3,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nampoina-Razanakoto/Nampoina-Razanakoto/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nampoina-Razanakoto/Nampoina-Razanakoto/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![generate animation](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml)
           
 <!--
 **Nampoina-Razanakoto/Nampoina-Razanakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
