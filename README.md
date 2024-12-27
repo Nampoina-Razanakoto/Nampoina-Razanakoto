@@ -7,10 +7,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nampoina-Razanakoto/Nampoina-Razanakoto/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 [![Generate Snake](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml/badge.svg)](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml)
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
           
 <!--
