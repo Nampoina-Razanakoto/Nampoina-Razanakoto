@@ -10,7 +10,8 @@
 [![generate animation](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml)
 
 
-https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
           
 <!--
 **Nampoina-Razanakoto/Nampoina-Razanakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
