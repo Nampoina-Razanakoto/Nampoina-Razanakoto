@@ -1,3 +1,6 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nampoina-Razanakoto/Nampoina-Razanakoto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nampoina-Razanakoto/Nampoina-Razanakoto/output/github-contribution-grid-snake.svg">
@@ -5,6 +8,9 @@
 </picture>
 
 [![generate animation](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Nampoina-Razanakoto/Nampoina-Razanakoto/actions/workflows/main.yml)
+
+
+https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif
           
 <!--
 **Nampoina-Razanakoto/Nampoina-Razanakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
